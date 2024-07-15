@@ -21,3 +21,5 @@ This project automates the submission of a web form on Digital Unite's practice 
 
 ## Automation video :
 
+https://github.com/user-attachments/assets/4fb7a95b-b377-48e6-95b5-f9f458ac1ee9
+
