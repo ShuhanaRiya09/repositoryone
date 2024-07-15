@@ -39,3 +39,7 @@ The automation script performs the following tasks:
 
 https://github.com/user-attachments/assets/4fb7a95b-b377-48e6-95b5-f9f458ac1ee9
 
+# Conclusion
+
+This project demonstrates how to automate the submission of a web form using Selenium WebDriver and JUnit 5 (JUnit Jupiter). By leveraging these technologies, we've created a robust automation script that navigates to Digital Unite's practice webform, fills in various fields, uploads a file, selects checkboxes, submits the form, and verifies successful submission.
+
