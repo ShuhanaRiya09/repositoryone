@@ -1,7 +1,7 @@
 # Web Form Submission Automation
 
 ## Overview
-This project automates the submission of a web form on Digital Unite's practice webform for learners using Selenium WebDriver and Java.
+This project automates the submission of a web form on Digital Unite's practice webform for learners using Selenium WebDriver and JUnit 5 (JUnit Jupiter).
 
 ## Webform URL: https://www.digitalunite.com/practice-webform-learners
 
