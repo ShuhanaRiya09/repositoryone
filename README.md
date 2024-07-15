@@ -21,6 +21,15 @@ This project automates the submission of a web form on Digital Unite's practice 
 2. Navigate to the project directory.
 3. Clean the project and run tests with Gradle using the daemon mode: gradle clean test
 
+
+## Test Scenario
+The automation script performs the following tasks:
+- Navigates to the web form URL.
+- Fills in the form fields (Name, Phone, Date, Email, Message).
+- Uploads a file (`r.pdf` from resources directory).
+- Selects an age checkbox.
+- Submits the form and verifies the success message.
+
 ## Automation Report :
 
 ![webformtest](https://github.com/user-attachments/assets/55090df9-6b94-4542-bd9f-6825328ba16e)
