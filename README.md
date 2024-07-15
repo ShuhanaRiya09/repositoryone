@@ -18,3 +18,6 @@ This project automates the submission of a web form on Digital Unite's practice 
 1. Clone this repository.
 2. Navigate to the project directory.
 3. Clean the project and run tests with Gradle using the daemon mode: gradle clean test
+
+## Automation video :
+
